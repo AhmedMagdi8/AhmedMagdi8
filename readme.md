@@ -4,7 +4,7 @@ Hi 👋 My name is Ahmed Magdi
 Backend Node js Developer
 -------------------------
 
-Senior Computer Engineering student at Faculty of Engineering Mansoura University | Software Engineering Enthusiast
+Software Engineer
 
 *   🌍  I'm based in Egypt
 *   ✉️  You can contact me at [ahmedmagdii522@gmail.com](mailto:ahmedmagdii522@gmail.com) 
