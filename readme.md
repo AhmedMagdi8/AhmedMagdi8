@@ -1,4 +1,4 @@
-ss<h1 align="left">Hi there 👋, I'm Ahmed Magdi, a Software Engineer and Full Stack Developer.</h1>
+<h1 align="left">Hi there 👋, I'm Ahmed Magdi, a Software Engineer and Full Stack Developer.</h1>
 
 ###
 
