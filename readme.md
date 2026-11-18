@@ -7,16 +7,16 @@
 
 ### 🚀 About Me
 
-* 🌍 **Based in:** Cairo, Egypt[cite: 1]
-* ✉️ **Contact:** [ahmedmagdii522@gmail.com](mailto:ahmedmagdii522@gmail.com)[cite: 1]
-* 📄 **Resume:** Explore my full professional background [here](https://ahmedmagdi8.github.io/)[cite: 1]
+* 🌍 **Based in:** Cairo, Egypt
+* ✉️ **Contact:** [ahmedmagdii522@gmail.com](mailto:ahmedmagdii522@gmail.com)
+* 📄 **Resume:** Explore my full professional background [here](https://ahmedmagdi8.github.io/)
 
-I am a backend software engineer with 3+ years of professional experience specializing in building scalable, distributed backend systems, event-driven architectures, and high-performance APIs[cite: 1]. My engineering focus centers on clean architecture[cite: 1], advanced database performance optimization (such as strategic indexing and concurrency control)[cite: 1], and robust asynchronous pipeline processing using message queues[cite: 1]. 
+I am a backend software engineer with 3+ years of professional experience specializing in building scalable, distributed backend systems, event-driven architectures, and high-performance APIs. My engineering focus centers on clean architecture, advanced database performance optimization (such as strategic indexing and concurrency control), and robust asynchronous pipeline processing using message queues. 
 
-* **Architectural Expertise:** Designing modular, testable backend systems adhering to SOLID principles, design patterns, and clean architecture paradigms[cite: 1, 2].
-* **Distributed Systems & Data:** Implementing asynchronous messaging workflows with Apache Kafka, BullMQ, and RabbitMQ[cite: 1, 2], alongside caching and rate-limiting layers using Redis[cite: 1].
-* **Cloud & DevOps Infrastructure:** Containerizing workloads via Docker, orchestrating CI/CD deployment pipelines, and managing cloud services across AWS (EC2, Lambda, S3, RDS, DynamoDB, API Gateway)[cite: 1, 2].
-* **Algorithmic Problem Solving:** Solved over 200 coding problems on LeetCode and Codeforces, emphasizing data structures, time complexity reduction, and performance profiling[cite: 1].
+* **Architectural Expertise:** Designing modular, testable backend systems adhering to SOLID principles, design patterns, and clean architecture paradigms.
+* **Distributed Systems & Data:** Implementing asynchronous messaging workflows with Apache Kafka, BullMQ, and RabbitMQ, alongside caching and rate-limiting layers using Redis.
+* **Cloud & DevOps Infrastructure:** Containerizing workloads via Docker, orchestrating CI/CD deployment pipelines, and managing cloud services across AWS (EC2, Lambda, S3, RDS, DynamoDB, API Gateway).
+* **Algorithmic Problem Solving:** Solved over 200 coding problems on LeetCode and Codeforces, emphasizing data structures, time complexity reduction, and performance profiling.
 
 ---
 
