@@ -1,23 +1,26 @@
-<h1 align="left">Hi there 👋, I'm Ahmed Magdi, a Backend Software Engineer.</h1>
+<div align="center">
+  <h1>Hi there 👋, I'm Ahmed Magdi</h1>
+  <h3>Backend Software Engineer</h3>
+</div>
 
-<p align="left">
-  <h2>🚀 About Me</h2>
-  🌍 Based in Egypt.<br>
-  ✉️ Contact me at <a href="mailto:ahmedmagdii522@gmail.com">ahmedmagdii522@gmail.com</a>[cite: 1].<br><br>
-  
-  I am a backend software engineer with 3+ years of experience specializing in building scalable, distributed backend systems, event-driven architectures, and high-performance APIs[cite: 1]. My core focus lies in clean architecture[cite: 1], advanced database performance tuning (indexing, concurrency control)[cite: 1], and asynchronous processing using message queues[cite: 1].<br><br>
-  
-  🛠️ <b>Core Stack:</b> Node.js, NestJS, Express.js, Django REST Framework, PostgreSQL, MySQL, MongoDB, Redis, Kafka, BullMQ, Docker, and AWS[cite: 1, 2].<br>
-  📈 I have also solved over 200 algorithmic problems on platforms like LeetCode and Codeforces[cite: 1].<br><br>
-  
-  📄 You can check out my resume <a href="https://ahmedmagdi8.github.io/">here</a>[cite: 1].
-</p>
+---
 
-###
+### 🚀 About Me
 
-<h2 align="left">🛠️ Tech Stack & Tools</h2>
+* 🌍 **Based in:** Cairo, Egypt[cite: 1]
+* ✉️ **Contact:** [ahmedmagdii522@gmail.com](mailto:ahmedmagdii522@gmail.com)[cite: 1]
+* 📄 **Resume:** Explore my full professional background [here](https://ahmedmagdi8.github.io/)[cite: 1]
 
-###
+I am a backend software engineer with 3+ years of professional experience specializing in building scalable, distributed backend systems, event-driven architectures, and high-performance APIs[cite: 1]. My engineering focus centers on clean architecture[cite: 1], advanced database performance optimization (such as strategic indexing and concurrency control)[cite: 1], and robust asynchronous pipeline processing using message queues[cite: 1]. 
+
+* **Architectural Expertise:** Designing modular, testable backend systems adhering to SOLID principles, design patterns, and clean architecture paradigms[cite: 1, 2].
+* **Distributed Systems & Data:** Implementing asynchronous messaging workflows with Apache Kafka, BullMQ, and RabbitMQ[cite: 1, 2], alongside caching and rate-limiting layers using Redis[cite: 1].
+* **Cloud & DevOps Infrastructure:** Containerizing workloads via Docker, orchestrating CI/CD deployment pipelines, and managing cloud services across AWS (EC2, Lambda, S3, RDS, DynamoDB, API Gateway)[cite: 1, 2].
+* **Algorithmic Problem Solving:** Solved over 200 coding problems on LeetCode and Codeforces, emphasizing data structures, time complexity reduction, and performance profiling[cite: 1].
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
